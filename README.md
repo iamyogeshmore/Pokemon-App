@@ -1,3 +1,10 @@
+# Pokemon app
+- [ ] Pokedex application that fetches Pokemon data from the PokéAPI and display.
+- [ ] Users can navigate through the list of Pokémon using pagination buttons, and when they click on a Pokémon card, detailed information about that Pokémon is displayed.
+- [ ] The project demonstrates the use of React component, state management, API fetching, and responsive styling.
+- [ ] Pokemon API link:  https://pokeapi.co/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
